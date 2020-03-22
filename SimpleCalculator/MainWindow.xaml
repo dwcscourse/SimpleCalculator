@@ -7,8 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox x:Name="FirstNumber" HorizontalAlignment="Left" Margin="100,97,0,0" Text="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="120" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
-        <TextBox x:Name="SecondNumber" HorizontalAlignment="Left" Margin="569,97,0,0" Text="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="120" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="FirstNumber" HorizontalAlignment="Left" Margin="100,97,0,0" Text="12" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="120" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="SecondNumber" HorizontalAlignment="Left" Margin="569,97,0,0" Text="22" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="120" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
         <TextBox x:Name="DisplayBox" HorizontalAlignment="Center" Margin="0,265,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="599" Height="107" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
         <Button Content="Button" HorizontalAlignment="Center" Margin="0,97,0,0" VerticalAlignment="Top" Height="120" Width="118" Click="Button_Click"/>
 

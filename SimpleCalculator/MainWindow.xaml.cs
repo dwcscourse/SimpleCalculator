@@ -30,7 +30,7 @@ namespace SimpleCalculator
             double firstNumber = double.Parse(FirstNumber.Text);
             double secondNumber = double.Parse(SecondNumber.Text);
 
-            double result = Math.Round(firstNumber + secondNumber,2);
+            double result = Math.Round(firstNumber + secondNumber, 2);
 
             DisplayBox.Text = result.ToString();
         }
